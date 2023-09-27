@@ -1,6 +1,12 @@
-# Stan - Text Analysis Tool
+# STAN - Text Analysis Tool
 
 Stan is a powerful text analysis tool designed to summarize content and answer questions using large language models.
+
+# Demo Video
+
+https://github.com/kaifcoder/Stan/assets/57701861/40d051ed-a659-42c0-8f15-bef37f1b158e
+
+
 
 ## Key Features
 
